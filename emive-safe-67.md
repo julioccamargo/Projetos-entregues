@@ -40,7 +40,7 @@
 
 ✅ **Versão atual:** v1.2.0  
 📦 **Deploy ativo:** [emive.safe67.com.br](https://emive.safe67.com.br)  
-🧠 **Repositório:** [github.com/julioccamargo/emive-alarme](https://github.com/julioccamargo/emive-alarme)
+🧠 **Repositório:** Privado
 
 ---
 
