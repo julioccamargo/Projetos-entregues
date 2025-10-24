@@ -48,7 +48,7 @@
 
 ✅ **Versão atual:** v1.0.0  
 📦 **Deploy ativo:** [burititecnologia.com](https://burititecnologia.com)  
-🧠 **Repositório:** [github.com/julioccamargo/buriti-tecnologia](https://github.com/julioccamargo/buriti-tecnologia)
+🧠 **Repositório:** Privado
 
 ---
 
