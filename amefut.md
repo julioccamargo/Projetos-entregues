@@ -24,8 +24,7 @@ Landing page institucional desenvolvida para a **AMEFUT**, focada em apresentar 
 * **Estilo:** Tailwind CSS
 * **Gerenciador de Pacotes:** Bun
 * **Componentes:** Shadcn/UI
-* **Deploy:** Vercel (ou o serviço que você utilizou)
-* **Branchs:** `main` (produção)
+* **Deploy:** Vercel (free)
 
 ---
 
