@@ -1,4 +1,4 @@
-# Aqui é meu repositório com meus projetos já entregues
+# Aqui é meu repositório com meus projetos entregues/mantidos
 
 * [Página para empresa EMIVE de segurança](https://github.com/julioccamargo/Projetos-entregues/blob/main/emive-safe-67.md)
 * [Páginas de marketing e remarketing para produtor digital com check-out integrado](https://github.com/julioccamargo/Projetos-entregues/blob/main/ebook-milionario.md)
