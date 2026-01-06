@@ -1,6 +1,6 @@
 # ⚽ Landing Page AMEFUT
 
-Landing page institucional desenvolvida para a **AMEFUT**, focada em apresentar os serviços/atividades de forma moderna, com alta performance e otimização para conversão.
+Página institucional: Front e back para **AMEFUT** - Escola de futebol no município de Bofete-SP.
 
 ---
 
