@@ -1,6 +1,6 @@
-# ⚽ Landing Page AMEFUT
+# ⚽ Página institucional AMEFUT
 
-Página institucional: Front e back para **AMEFUT** - Escola de futebol no município de Bofete-SP.
+Front e back para **AMEFUT** - Escola de futebol no município de Bofete-SP.
 
 ---
 
