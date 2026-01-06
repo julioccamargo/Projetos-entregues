@@ -1,7 +1,7 @@
 # ⚽ Página institucional AMEFUT
 
 ## Front e back para **AMEFUT** - Escola de futebol no município de Bofete-SP.
-## Integrado gateway de pagamento // Galeria // Redes sociais // Formulário // E-mail corporativo
+### Integrado gateway de pagamento // Galeria // Redes sociais // Formulário // E-mail corporativo
 
 ---
 
